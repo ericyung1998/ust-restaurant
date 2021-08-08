@@ -1,6 +1,6 @@
 # ust-restaurant
 
-ISOM3210 - Information Systems Analysis and Design
+ISOM3210 - Information Systems Analysis and Design: Project
 - Report that details the restaurant information system specifications, which includes viewing restaurant information, online ordering and payment, restaurant seat reservation, and user database management functions
 
 <br>
